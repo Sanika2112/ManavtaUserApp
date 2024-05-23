@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "48231023961",
+    "firebase_url": "https://manavta-62539-default-rtdb.firebaseio.com",
+    "project_id": "manavta-62539",
+    "storage_bucket": "manavta-62539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48231023961:android:50bfc9b32ccd2ddb05f848",
+        "android_client_info": {
+          "package_name": "com.example.manavtaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48231023961-ij0kaoglr8hhggrv8udgqr71ovh4jd3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcIOAB6egQ6yDymG4DWRklh-Yq67bJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48231023961-8dof632087v9j1p1bn4ldnuftakuu4np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48231023961:android:cb51d5f2a740675c05f848",
+        "android_client_info": {
+          "package_name": "com.sanika.manavta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48231023961-2n7o2p58j2vq1o79tnop1eqolrcb68kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanika.manavta",
+            "certificate_hash": "205830146f34e2de37934f2d7e7e8459c22480d8"
+          }
+        },
+        {
+          "client_id": "48231023961-ij0kaoglr8hhggrv8udgqr71ovh4jd3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcIOAB6egQ6yDymG4DWRklh-Yq67bJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48231023961-8dof632087v9j1p1bn4ldnuftakuu4np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48231023961:android:20380aba125ac2f605f848",
+        "android_client_info": {
+          "package_name": "com.sanika.manavtauser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48231023961-6vo1ttanateaioela3r1ono9r14cjupg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanika.manavtauser",
+            "certificate_hash": "205830146f34e2de37934f2d7e7e8459c22480d8"
+          }
+        },
+        {
+          "client_id": "48231023961-ij0kaoglr8hhggrv8udgqr71ovh4jd3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcIOAB6egQ6yDymG4DWRklh-Yq67bJnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48231023961-8dof632087v9j1p1bn4ldnuftakuu4np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
